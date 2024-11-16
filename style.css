@@ -1,0 +1,25 @@
+
+html, body {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    background:#000;
+  }
+  
+body, html {
+    background: aquamarine;
+}
+
+body, html {
+    background: cornsilk;
+}
+
+body, html {
+    cursor: pointer;
+    background: lemonchiffon;
+}
+
+body,html {
+    background: blueviolet;
+}
